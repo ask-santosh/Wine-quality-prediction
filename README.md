@@ -9,4 +9,5 @@ I have collected data from kaggle and applied 9 ML algorithms to monitor it's ac
 ## Comparison Models Accuracy
 
 After a series of experiments I found that Random Forest gives a good accuracy of 88% and K-NN gives second highest of 83% .
+
 ![image](https://github.com/ask-santosh/Wine-quality-prediction/blob/main/images/Screenshot%202022-02-07%20at%208.34.37%20PM.png)
